@@ -1,5 +1,7 @@
 {
   "name": "typescript-learning",
+  "description": "A simple project for learning typescript",
+  "repository": "git@github.com:alexlapinski/typescript-learning.git",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/main.js",
